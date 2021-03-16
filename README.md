@@ -2,7 +2,12 @@
 
 ## Kali Linux Commands
 
-### update kali tools
+- ### update kali tools
+```
+sudo apt update
+sudo apt full-upgrade -y
+```
+- ### update kali tools
 ```
 sudo apt update
 sudo apt full-upgrade -y
