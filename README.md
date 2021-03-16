@@ -1,7 +1,8 @@
-# Hacking Space
-My Kali Linux command line
+# My Hacking Space
 
-### Update Kali Tools
+## Kali Linux Commands
+
+### update kali tools
 ```
 sudo apt update
 sudo apt full-upgrade -y
